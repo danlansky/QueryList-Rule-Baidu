@@ -2,7 +2,7 @@
     "name": "jaeger/querylist-rule-baidu",
     "description": "QueryList Plugin: Baidu searcher. QueryList百度搜索插件",
     "require": {
-        "PHP":">=7.0"
+        "PHP":">=5.3"
     },
     "require-dev": {
         "jaeger/querylist": "dev-master"
